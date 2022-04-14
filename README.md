@@ -1,7 +1,8 @@
 <h1 align="center"> Sorting Algorithm Visualizer </h1>
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/43732450/163300004-6ef348cc-a563-46d0-9e50-d560ee376526.gif" align=/>
+<img src = "https://user-images.githubusercontent.com/43732450/163300004-6ef348cc-a563-46d0-9e50-d560ee376526.gif" width="500" 
+     height="300"/>
 </p>
 
 
